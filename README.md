@@ -12,3 +12,7 @@ Sou administrador de empresas, atualmente focado no ramo alimentício, como entu
 
 # Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Heijardel&repo=devweekgit.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+# Contatos
+
+[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt-'Instagram' height-'30'>](https://www.instagram.com/hei.jardel)
