@@ -12,4 +12,4 @@ Sou administrador de empresas, atualmente focado no ramo alimentício, como entu
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeiJardel&repo=https://github.com/HeiJardel/devweekgit.github.io](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeiJardel&repo=devweekgit.github.io](https://github.com/anuraghazra/github-readme-stats)
