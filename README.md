@@ -15,4 +15,4 @@ Sou administrador de empresas, atualmente focado no ramo alimentício, como entu
 
 # Contatos
 
-![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='30'>](https://www.instagram.com/hei.jardel)
