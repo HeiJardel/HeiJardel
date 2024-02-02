@@ -11,7 +11,6 @@ Sou administrador de empresas, atualmente focado no ramo alimentício, como entu
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeiJardel&show_icons=true&theme=gruvbox)
 
 # Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Heijardel&repo=devweekgit.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contatos
 
